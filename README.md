@@ -1,4 +1,4 @@
-# INFOSECNIGHT-20170720-RASPI
+# INFOSECNIGHT-20170720-RASPI PROJECTS
 
 This will be the repo for RaspberryPi Projects shared at INFOSEC NIGHT
 =====================================
