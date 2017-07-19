@@ -22,12 +22,8 @@ Kali for Pi
 **COOL**
 
 
-
-
-
-
 ##PI ZERO
-
+===
 
 **OFFENSE**
 
