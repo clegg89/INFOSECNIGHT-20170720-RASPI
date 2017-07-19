@@ -14,13 +14,16 @@ This will be the repo for RaspberryPi Projects shared at INFOSEC NIGHT
 Kali for Pi
 
 
+
+
 **DEFENSIVE**
 
-
-
+https://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/
 
 
 **COOL**
+
+
 
 <a name="PI Zero"></a>
 ## PI ZERO
