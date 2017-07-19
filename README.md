@@ -4,7 +4,7 @@ This will be the repo for RaspberryPi Projects shared at INFOSEC NIGHT
 =====================================
 
 
-##RASPBERRY PI
+## RASPBERRY PI
 
 
 
@@ -23,7 +23,7 @@ Kali for Pi
 **COOL**
 
 
-##PI ZERO
+## PI ZERO
 
 
 
