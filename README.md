@@ -99,6 +99,8 @@ http://hackaday.com/2015/02/13/teletext-on-a-raspi-with-zero-additional-parts/
 
 http://lifehacker.com/build-a-dedicated-traffic-monitor-with-a-raspberry-pi-1678558807
 
+https://n-o-d-e.net/pislim.html
+
 
 ## PI ZERO
 
